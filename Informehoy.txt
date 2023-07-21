@@ -9,6 +9,11 @@ Permite guardar fotos del estado de nuestro código en un tiempo determinado y c
 En un sistema de control de versiones varias personas pueden realizar cambios, este registra quien y cuando fueron realizados.
 
 
+<<<<<<< HEAD
 
 “ramas Como ignorar archivos para no ser comprometidos en el área de trabajo.
+=======
+“ramas Como ignorar archivos para no ser comprometidos en el
+área de trabajo.
+>>>>>>> rama_dos
 Cambiar de ramas y volver a la principal”
