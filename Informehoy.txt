@@ -7,3 +7,8 @@ QUE ES?
 Sistema que registra los cambios realizados sobre un archivo o conjunto de archivos, de modo que puedas recuperar versiones mas adelante.
 Permite guardar fotos del estado de nuestro código en un tiempo determinado y compararlas para ver los cambios de este.
 En un sistema de control de versiones varias personas pueden realizar cambios, este registra quien y cuando fueron realizados.
+
+
+
+“ramas Como ignorar archivos para no ser comprometidos en el área de trabajo.
+Cambiar de ramas y volver a la principal”
